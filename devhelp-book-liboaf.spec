@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/liboaf.tar.gz
+# Source0-md5:	b0f72225d0332cad34fe16795622313e
 URL:		http://www.devhelp.net/
 Requires:	devhelp
 BuildArch:	noarch
