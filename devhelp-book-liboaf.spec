@@ -1,5 +1,5 @@
 Summary:	DevHelp book: liboaf
-Summary(pl.UTF-8):   Książka do DevHelpa o liboaf
+Summary(pl.UTF-8):	Książka do DevHelpa o liboaf
 Name:		devhelp-book-liboaf
 Version:	1.0
 Release:	1
