@@ -1,5 +1,5 @@
 Summary:	DevHelp book: liboaf
-Summary(pl):	Ksi±¿ka do DevHelpa o liboaf
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o liboaf
 Name:		devhelp-book-liboaf
 Version:	1.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about liboaf.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o liboaf.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o liboaf.
 
 %prep
 %setup -q -c -n liboaf
